@@ -1,4 +1,4 @@
-# Projeto 01 - ReactJS - Rocketseat
+# Projeto 01 - ReactJS - TS - Rocketseat
 Este é o primeiro projeto da Rocket Ignite com ReactJS, um programa de capacitação intensiva em desenvolvimento de software.
 
 
