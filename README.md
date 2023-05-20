@@ -10,11 +10,11 @@ Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e r
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/ignite.git`
+`git clone https://github.com/GabrielGCJ/ignite2.git`
 
 Entre na pasta do projeto:
 
-`cd ignite`
+`cd ignite2`
 
 Instale o projeto:
 
