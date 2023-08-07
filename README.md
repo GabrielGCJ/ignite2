@@ -6,8 +6,8 @@ Este é o primeiro projeto da Rocket Ignite com ReactJS, um programa de capacita
 
 ----
 
-# <a href="https://gb-feed.surge.sh">Clique aqui para testar</a>
-#Testar
+# <a href="https://gb-feed.surge.sh">gb-feed.surge.sh</a>
+
 ----
 
 Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e relembramos conceitos fundamentais, tais como componentização, props (propriedades), estados, imutabilidade e hooks. Além disso, aplicamos o TypeScript para aprimorar ainda mais a qualidade da aplicação.
