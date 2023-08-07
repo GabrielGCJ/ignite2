@@ -10,11 +10,11 @@ Neste projeto, criamos uma aplicação utilizando o Vite, no qual exploramos e r
 
 Clone este repositório em sua máquina:
 
-`git clone https://github.com/GabrielGCJ/ignite2.git`
+`git clone https://github.com/GabrielGCJ/p-01-react-js-ts-rocketseat-feed.git`
 
 Entre na pasta do projeto:
 
-`cd ignite2`
+`cd p-01-react-js-ts-rocketseat-feed`
 
 Instale o projeto:
 
